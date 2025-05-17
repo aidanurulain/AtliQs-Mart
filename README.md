@@ -6,6 +6,9 @@ AtliQ Mart, a retail chain with over 50 supermarkets in southern India, conducte
 - SQL (MySQL) – Data exploration and querying
 - Power BI – Data visualization and reporting
 
+# Dashboard Image
+https://github.com/aidanurulain/AtliQs-Mart/blob/main/AtliQs%20Mart%20Sales%20Dashboard.png
+
 # Project Insights
 - Promotion performance shows effective and less effective promotions
 - Product and Category analysis
