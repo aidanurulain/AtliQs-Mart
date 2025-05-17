@@ -1,9 +1,9 @@
 # Objective
-The project aims to analyze historical sales data from a fictional retail company, AtliQs Mart, to uncover trends, evaluate the impact of marketing events, and support strategic decisions using data-driven insights.
+AtliQ Mart, a retail chain with over 50 supermarkets in southern India, conducted extensive promotions during the Diwali 2023 and Sankranti 2024 festive seasons. The primary goal of this project was to analyze the effectiveness of these promotions and provide actionable insights to optimize future promotional strategies
 
 # Tools Used
-- SQL (MySQL) – Data analysis and querying
-- Power BI / Excel (if used) – Data visualization and reporting
+- SQL (MySQL) – Data exploration and querying
+- Power BI – Data visualization and reporting
   
 # Process
 - Understanding the problem statement
@@ -12,11 +12,12 @@ The project aims to analyze historical sales data from a fictional retail compan
 - Documenting findings in insight reports and dashboards
 
 # Project Insights
-- Seasonal sales trends identified
-- High-performing products and brands highlighted
-- Marketing event analysis revealed ROI and sales uplift
-- Ad-hoc queries answered specific business questions
+- Promotion performance shows effective and less effective promotions
+- Product and Category analysis
+- Regional performance
+- Key Performance Indicator (Incremental Sold Unit and Incremental Revenue)
+- Comparison of insight based on two type of campaign, narrow down into details by city, promotion type and product category
 - Click here to see project insight (https://www.novypro.com/project/atliq-mart-analyse-promotions-and-insight-power-bi)
 
 # Conclusion
-This project demonstrates how raw transactional data can be transformed into actionable business intelligence using SQL and structured analysis. It showcases the power of data in enhancing retail strategies and decision-making.
+The analysis provided actionable insights to enhance AtliQ Mart's promotional effectiveness and drive sales growth. 
