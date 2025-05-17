@@ -1,3 +1,4 @@
+# AtliQs Mart Sales Analysis (Power BI Interactive Dashboard)
 # Objective
 AtliQ Mart, a retail chain with over 50 supermarkets in southern India, conducted extensive promotions during the Diwali 2023 and Sankranti 2024 festive seasons. The primary goal of this project was to analyze the effectiveness of these promotions and provide actionable insights to optimize future promotional strategies
 
