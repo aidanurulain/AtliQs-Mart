@@ -4,12 +4,6 @@ AtliQ Mart, a retail chain with over 50 supermarkets in southern India, conducte
 # Tools Used
 - SQL (MySQL) – Data exploration and querying
 - Power BI – Data visualization and reporting
-  
-# Process
-- Understanding the problem statement
-- Setting up a MySQL database using provided .sql scripts
-- Executing queries for exploratory and ad-hoc analysis
-- Documenting findings in insight reports and dashboards
 
 # Project Insights
 - Promotion performance shows effective and less effective promotions
